@@ -23,4 +23,7 @@ from the functions there is only ```DRAW()```, this function accepts D in the fo
 
 ***
 if someone doesn't understand something:
-    [my telegram]("https://t.me/B_TEKCTE")
+    [my telegram](https://t.me/B_TEKCTE)
+
+
+Good use!
