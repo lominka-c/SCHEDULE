@@ -5,7 +5,7 @@ import datetime
 class Chart():
 	def __init__(self, val:tuple):
 		self.values = val
-	def DRAWW(self, d:list = [1,2,3,4,5,6,7], text_x="", text_y=""):
+	def DRAW(self, d:list = [1,2,3,4,5,6,7], text_x="", text_y=""):
 		if str(d) == str([1,2,3,4,5,6,7]):
 			a = datetime.datetime.now().now()
 			s = []
