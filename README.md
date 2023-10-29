@@ -20,6 +20,7 @@ A module for creating graphs, and nothing other
 # <a id="Functions">Functions</a>
 
 from the functions there is only ```DRAW()```, this function accepts D in the form of a list, the number of elements of the list must match the list in the initialization
+ie: ```chart.DRAW()```
 
 ***
 if someone doesn't understand something:
