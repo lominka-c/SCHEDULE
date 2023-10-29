@@ -14,7 +14,7 @@ A module for creating graphs, and nothing other
 ```from SCHEDULE import Chart```
 3. create the variable with Chart
   
-```chart = Chart(__тут ваш список__)```, by default, the list should contain 7 integer values
+```chart = Chart(__list__)```, by default, the list should contain 7 integer values
 4. use the function.
 
 # <a id="Functions">Functions</a>
